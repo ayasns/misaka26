@@ -75,3 +75,5 @@ Please do not use camera silence for the purpose of voyeurism. For photographing
 
 ## Credit
 - [Duy Tran](https://github.com/khanhduytran0) for the exploit writeup
+- [hanakim3945](https://github.com/hanakim3945)
+
