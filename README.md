@@ -21,10 +21,9 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 ## How to Use
 
 ## Supported Features
-- **TrollStore Installer**
-
-
 - **TrollPad (MultiTasking)** (iOS 18.0+)
+  
+- **TrollStore Installer (iOS 15.2 ~ 16.7RC (20H18) & 17.0)**
 - **Dynamic Island** (iOS 16.0+)
 - **Charge Limit** (iOS 17.0+)
 - **Boot Chime** (iOS 17.0+)
